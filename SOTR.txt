@@ -1,0 +1,23 @@
+# Omar-Diaz-SOTR
+
+Definición
+
+Un sistema operativo de tiempo real es un sistema operativo que ha sido desarrollado para aplicaciones de tiempo real. 
+Como tal, se le exige corrección en sus respuestas bajo ciertas restricciones de tiempo. 
+Los Sistemas Operativos de tiempo real son aquellos en los cuales no tiene importancia el usuario, sino los procesos. 
+Por lo general, estan subutilizados sus recursos con la finalidad de prestar atencion a los procesos en el momento que
+lo requieran. se utilizan en entornos donde son procesados un gran numero de sucesos o eventos. 
+
+Aplicaciones
+
+Muchos Sistemas Operativos de tiempo real son construidos para aplicaciones muy especificas como control de trafico aereo,
+bolsas de valores, control de refinerias, control de laminadores. Tambien en el ramo automovilistico y de la electronica
+de consumo, las aplicaciones de tiempo real estan creciendo muy rapidamente. Otros campos de aplicacion de los Sistemas 
+Operativos de tiempo real son los siguientes:
+
+    Control de trenes.
+    Telecomunicaciones.
+    Sistemas de fabricacion integrada.
+    Produccion y distribucion de energia electrica.
+    Control de edificios.
+    Sistemas multimedia.
